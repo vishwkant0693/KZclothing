@@ -1,0 +1,32 @@
+{
+    "merch": [
+        {
+            "title":"Classic Black",
+            "image":"img/products/1.png",
+            "description":"Round Neck",
+            "price":"$4.99",
+            "id":1
+        },
+        {
+            "title":"Classic Red",
+            "image":"img/products/2.png",
+            "description":"Round Neck",
+            "price":"$4.99",
+            "id":1
+        },
+        {
+            "title":"Classic Grey",
+            "image":"img/products/3.png",
+            "description":"Round Neck",
+            "price":"$4.99",
+            "id":1
+        },
+        {
+            "title":"Classic white",
+            "image":"img/products/1.png",
+            "description":"Round Neck",
+            "price":"$4.99",
+            "id":1
+        }
+    ]
+}
